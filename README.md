@@ -1,11 +1,11 @@
 # Lung Cancer dataset Analysis, Visualization and Prediction using Neural Networks
 
 ### Introduction
-<div style="width:100%; height:100%; position:absolute; top:0; opacity:0.05;">
+<!-- <div style="width:100%; height:100%; position:absolute; top:0; opacity:0.05;">
    <img src="https://media.istockphoto.com/id/1178554650/vector/vector-seamless-pattern-of-hand-drawn-textured-pink-breast-cancer-awareness-ribbon-women.jpg?s=612x612&w=0&k=20&c=dI9dJWWxrExo8cEHB-gRfMVe6aesnTvkbr5-uZGxX3c=" 
     alt="drawing"
     style="width: 100%; height: 100%"
-/> 
+/>  -->
 </div>
 <p>
 Lung cancer is a type of cancer that begins in the lungs, typically in the cells lining the air passages. It is one of the most common and deadliest forms of cancer worldwide. Lung cancer can be broadly categorized into two main types: non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC), each with different characteristics and treatment approaches.  
